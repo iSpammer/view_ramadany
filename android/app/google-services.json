@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "802851649674",
+    "firebase_url": "https://view-ramadany-55abc.firebaseio.com",
+    "project_id": "view-ramadany-55abc",
+    "storage_bucket": "view-ramadany-55abc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802851649674:android:167b1cc24205abff6c9573",
+        "android_client_info": {
+          "package_name": "ispam.viewramadany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802851649674-hl7u3to4lqqe06jcmi9len1e61kk99v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhBk7Ho5C2rRRjwl1_VVxNgtk6IJkzgdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802851649674-hl7u3to4lqqe06jcmi9len1e61kk99v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
