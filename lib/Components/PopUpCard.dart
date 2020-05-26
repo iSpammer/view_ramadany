@@ -18,7 +18,7 @@ class _PopUpCardState extends State<PopUpCard> {
       weith: 320,
       animatedIcons: AnimatedIcons.menu_close,
       fabcolor: darkModeOn ? Colors.white30 : Colors.black,
-      containercolor: darkModeOn ? Colors.white30 : Colors.black,
+      containercolor: darkModeOn ? Colors.white30 : Colors.white,
       childrens: <Widget>[
         Divider(),
         Container(
