@@ -1,3 +1,4 @@
+
 import 'package:animated_splash/animated_splash.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';

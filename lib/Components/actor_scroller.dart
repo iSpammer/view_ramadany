@@ -18,7 +18,7 @@ class ActorScroller extends StatelessWidget {
             radius: 40.0,
           ),
           Padding(
-            padding: const EdgeInsets.only(top: 8.0),
+            padding: const EdgeInsets.only(top: 10.0),
             child: Text(actor.name),
           ),
         ],

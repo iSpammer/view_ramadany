@@ -46,8 +46,8 @@ class Movie {
         channel = List<String>.from(snapshot.value["channel"]),
         type = snapshot.value["type"],
         displaytime = List<String>.from(snapshot.value["displaytime"]),
-        redisplaytime = List<String>.from(snapshot.value["rediesplaytime"]);
-//        redisplaytime = List<String>.from(snapshot.value["redisplaytime"]);
+        redisplaytime = List<String>.from(snapshot.value["redisplaytime"]);
+
 
   toJson() {
     return {
